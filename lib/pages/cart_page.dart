@@ -1,4 +1,4 @@
-import 'package:flutter_coffee_shop_app/components/coffee_tile.dart';
+import 'package:flutter_coffee_shop_app/components/coffee_list.dart';
 import 'package:flutter_coffee_shop_app/models/coffee_shop.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

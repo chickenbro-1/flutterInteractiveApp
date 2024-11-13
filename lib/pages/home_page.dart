@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_coffee_shop_app/components/bottom_nav_bar.dart';
+import 'package:flutter_coffee_shop_app/components/bottom_navbar.dart';
 import 'cart_page.dart';
 import 'shop_page.dart';
 
